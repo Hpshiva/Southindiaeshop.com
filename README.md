@@ -2,6 +2,4 @@
 
 Clone for https://www.southindiaeshop.com/
 
-this is version 1
-its shiva kumar
-v3
+This clone is made with help of HTML,CSS,BOOTSTRAP,JAVASCRIPT.
